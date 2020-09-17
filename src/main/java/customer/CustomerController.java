@@ -1,4 +1,4 @@
-åpackage customer;
+package customer;
 
 import java.net.MalformedURLException;
 import java.net.URI;
